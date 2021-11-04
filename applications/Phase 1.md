@@ -8,7 +8,7 @@
 
 ## Project Overview :page_facing_up:
 
-![image](https://github.com/elifersnow/Grants-Program/blob/master/pic/1.png)
+![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
 
 RainbowDAO Protocol ink! is a series of smart contracts based on DAO infrastructure authorized and developed by the Rainbowcity Foundation. On the foundation of substrate development ecology, it focuses on the creation of web3 basic kits. These smart contracts are all created by the Ink! Framework. Anyone can create and manage their own DAO through Rainbow DAO Protocol. RainbowDAO Protocol can build not only independent DAOs, but also parent DAOs, child DAOs and alliance DAOs. What's more, it can create management departments within DAOs to achieve multi-level management.
 
