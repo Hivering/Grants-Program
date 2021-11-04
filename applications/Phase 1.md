@@ -8,6 +8,8 @@
 
 ## Project Overview :page_facing_up:
 
+![image](https://github.com/elifersnow/Grants-Program/blob/master/pic/1.png)
+
 RainbowDAO Protocol ink! is a series of smart contracts based on DAO infrastructure authorized and developed by the Rainbowcity Foundation. On the foundation of substrate development ecology, it focuses on the creation of web3 basic kits. These smart contracts are all created by the Ink! Framework. Anyone can create and manage their own DAO through Rainbow DAO Protocol. RainbowDAO Protocol can build not only independent DAOs, but also parent DAOs, child DAOs and alliance DAOs. What's more, it can create management departments within DAOs to achieve multi-level management.
 
 Rainbow DAO Protocol ink! has built a complete web3 basic kit technology stack revolving around the DAO ecosystem, involving 12 items and 60 independent web3 kit systems. These 12 items are DAO Organizational Management System, DAO Token Management System, DAO Personnel Management System, DAO Treasury Management System, DAO Voting and Proposal Management System, DAO Contribution Management System, DAO Financial Management System, DAO Fundraising Management System , DAO marketing management system, DAO NFT ecological management system, DAO internal DeFi management system and DAO ecological tool management system. The 12 ecosystems contain 60 independent management modules, each of them can be combined and interact with each other for different function.
