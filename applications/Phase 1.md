@@ -8,7 +8,6 @@
 
 ## Project Overview :page_facing_up:
 
-![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
 
 RainbowDAO Protocol ink! is a series of smart contracts based on DAO infrastructure authorized and developed by the Rainbowcity Foundation. On the foundation of substrate development ecology, it focuses on the creation of web3 basic kits. These smart contracts are all created by the Ink! Framework. Anyone can create and manage their own DAO through Rainbow DAO Protocol. RainbowDAO Protocol can build not only independent DAOs, but also parent DAOs, child DAOs and alliance DAOs. What's more, it can create management departments within DAOs to achieve multi-level management.
 
@@ -20,6 +19,8 @@ Each module is developed based on the Ink! Framework, and we hope to realize the
 
 As the crypto world continues to prosper and innovate, various forms of DAO organizations that are guided by distributed ideas have emerged. These DAO organizations are exploring first-line governance methods in their own ways, and continue to carry out various forms of organizational innovation and system innovation. In order to better serve these different types of DAO organizations, DAO tools that focus on developing DAO infrastructure have emerged. It is hoped that through this  DAO tools, the operation and governance of the DAO organizations can be better realized.
 
+![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
+
 This DAO tool products have an extensive application, including but not limited to the construction of DAO framework, management of voting, proposal, bounty and multi-signature wallet management. Nowadays most of them zoom in Ethereum, such as aragon and DAOstack for DAO framework, gnosis-safe for Ethereum multi-signature wallet management, Snapshot for off-chain voting, etc. 
 
 Except for Ethereum, we are glad that tool DAO platforms showed up in DAOs of Polkadot, such as subDAO and dorafactory. They are working for a better ecosystem of Polkadot.
@@ -30,6 +31,8 @@ After half a year of research, we have especially summarized some of the problem
 
 - #### Problems in  DAO tool products
   In the last half a year, however, our team tried nearly all DAO tool products on the market. We discovered, DAO tool products are faced with the following problems:
+  
+  ![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
   
    - #####  1. Single product function
   
@@ -59,6 +62,8 @@ After half a year of research, we have especially summarized some of the problem
 - #### The difficulties in DAO industry.
 
   After half a year of research, we found that although DAO represents the future, the current DAO field is still at a very early stage, and there are still a lot of problems and difficulties. We have now summarized some of the difficulties that currently exist in the DAO industry, mainly as follows:
+  
+  ![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
   
    - #####  1. How to establish a reasonable organizational structure while insisting on decentralization
   
@@ -109,6 +114,8 @@ After half a year of research, we have especially summarized some of the problem
     
     In RainbowDAO protocol , we put forward the concept of DCV, which is the focus of the development of all DAO tools.
     
+    ![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
+    
     DCV, DAO Controlled Value, means that the value is not controlled by any single individual or centralized entity, but by DAOs at different levels. Through the DAO governance contract, DAO can control every core parameter and decision switch in the protocol, and ultimately the holder of the governance token can decide the direction of the entire DAO through voting. 
     
     At the same time, in RainbowDAO protocol, there are different types of DAOs, including parent DAOs, child DAOs, alliance DAOs and departmental DAOs, so that more different types of participants can join in the construction of the DAO community to give full play to the power of communities.
@@ -121,7 +128,7 @@ In view of the current problems and difficulties in the Dao industry, in order t
 
 The following are the details of the : RainbowDao protocol:
 
-
+![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
 
 - #### Three major innovations of RainbowDAO protocol
   
@@ -150,7 +157,7 @@ The following are the details of the : RainbowDao protocol:
     We have innovatively developed the DCV controller function. Each controller is a series of existing rules written by smart contracts to complete the specified contract operations. In this way, the management of DAO has unlimited scalability. Through the DCV controller function, each DAO itself can flexibly control the assets in the DCV.
    
     
-
+![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
 
 - #### Eight features of RainbowDAO protocol
 
@@ -187,7 +194,7 @@ The following are the details of the : RainbowDao protocol:
    
     Based on the first 7 characteristics, the RainbowDAO protocol will evolve into a living system that can upgrade infinitely with a decentralized idea. 
 
-
+![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
 
 - ####  Eight concepts of RainbowDAO protocol
 
@@ -236,6 +243,8 @@ The following are the details of the : RainbowDao protocol:
 
     This is our grand plan for the entire DAO infrastructure. The entire plan is too large, we will develop it in stages, and the overall development is expected to be completed in 2 years. This first grant applied for us to focus on the first item of the whole development. 
     
+    
+    ![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
     
    - #####  1. DAO Organizational Management System
    
@@ -299,6 +308,8 @@ The following are the details of the : RainbowDao protocol:
     
     After half a year of research, we found that although DAO represents the future, the 
   
+  ![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
+  
    - #####  1. Scale up: Alliance DAO
    
    
@@ -340,6 +351,9 @@ The following are the details of the : RainbowDao protocol:
     Through the above series of information, we have learned about the grand plan of RainbowDAO protocol, which is a huge project that allows DAO to expand infinitely and upgrade infinitely. So how is the RainbowDAO protocol constructed as a whole? What is the structure of the protocol itself? In this part, we focus on sharing with you the architecture design of the RainbowDAO protocol itself, so that everyone can clearly know the implementation method of the RainbowDAO protocol. 
     
     We can understand the design architecture of the RainbowDAO protocol from three parts. 
+    
+    
+![image](https://raw.githubusercontent.com/elifersnow/Grants-Program/master/pic/1.png)
   
    - #####  1.Tier 1 Architecture: RBD Governance Dao
    
