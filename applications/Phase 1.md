@@ -531,55 +531,55 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 Our leader RainbowKun is a believer in Satoshi Nakamoto and Bitcoin. He has been thinking about the philosophy of Bitcoin for the past four years. Since July 1, 2021, he spent 3 months writing more than 50 original articles on Bitcoin thoughts, and published them on the Bitcointalk forum created by Satoshi Nakamoto, sparking a series of extensive discussions. This is also the underlying idea that we initiated the creation of the Rainbowcity project and the RainbowDAO protocol. Now we choose a few links for everyone to read, so that everyone can better understand the thoughts of Rainbowcity:
 
 - Bitcoin is not just a currency, but represents a new human civilization.
-https://bitcointalk.org/index.php?topic=5346930.msg57358177#msg57358177
+- https://bitcointalk.org/index.php?topic=5346930.msg57358177#msg57358177
 - Bitcoin brings us true freedom of thought.
-https://bitcointalk.org/index.php?topic=5347695.msg57391553#msg57391553
+- https://bitcointalk.org/index.php?topic=5347695.msg57391553#msg57391553
 - Bitcoin is the quintessence of all human knowledge gathered together.
-https://bitcointalk.org/index.php?topic=5348071.msg57405800#msg57405800
+- https://bitcointalk.org/index.php?topic=5348071.msg57405800#msg57405800
 - Bitcoin is the creation of Satoshi from zero to one
-https://bitcointalk.org/index.php?topic=5348247.msg57412288#msg57412288
+- https://bitcointalk.org/index.php?topic=5348247.msg57412288#msg57412288
 - Think about the "decentralization" of bitcoin from seven different aspects
-https://bitcointalk.org/index.php?topic=5348902.msg57444773#msg57444773
+- https://bitcointalk.org/index.php?topic=5348902.msg57444773#msg57444773
 - Is the Bitcoin community a DAO?
-https://bitcointalk.org/index.php?topic=5349365.msg57465151#msg57465151
+- https://bitcointalk.org/index.php?topic=5349365.msg57465151#msg57465151
 - Why do many people call Bitcoin "digital gold"?
-https://bitcointalk.org/index.php?topic=5350641.msg57520193#msg57520193
+- https://bitcointalk.org/index.php?topic=5350641.msg57520193#msg57520193
 - Is Bitcoin possible to build a new "Bretton Woods system"
-https://bitcointalk.org/index.php?topic=5350824.msg57528763#msg57528763
+- https://bitcointalk.org/index.php?topic=5350824.msg57528763#msg57528763
 - Can Bitcoin truly evolve into super-sovereign currency?
-https://bitcointalk.org/index.php?topic=5351552.msg57563195#msg57563195
+- https://bitcointalk.org/index.php?topic=5351552.msg57563195#msg57563195
 - Bitcoin and Triffin Dilemma
-https://bitcointalk.org/index.php?topic=5351847.msg57574343#msg57574343
+- https://bitcointalk.org/index.php?topic=5351847.msg57574343#msg57574343
 - Some inspiration in the future of Bitcoin from the history of paper money
-https://bitcointalk.org/index.php?topic=5352310.msg57597352#msg57597352
+- https://bitcointalk.org/index.php?topic=5352310.msg57597352#msg57597352
 - The principle of entropy reduction in Bitcoin mining
-https://bitcointalk.org/index.php?topic=5352656.msg57611259#msg57611259
+- https://bitcointalk.org/index.php?topic=5352656.msg57611259#msg57611259
 - Why is Bitcoin in the highest level of trust?
-https://bitcointalk.org/index.php?topic=5352872.msg57621165#msg57621165
+- https://bitcointalk.org/index.php?topic=5352872.msg57621165#msg57621165
 - Why we say the creation of Bitcoin is an Internet of value?
-https://bitcointalk.org/index.php?topic=5353038.msg57629144#msg57629144
+- https://bitcointalk.org/index.php?topic=5353038.msg57629144#msg57629144
 - What’s the nature of currency?
-https://bitcointalk.org/index.php?topic=5353429.msg57650981#msg57650981
+- https://bitcointalk.org/index.php?topic=5353429.msg57650981#msg57650981
 - How is value transferred through blockchain?
-https://bitcointalk.org/index.php?topic=5353521.msg57654466#msg57654466
+- https://bitcointalk.org/index.php?topic=5353521.msg57654466#msg57654466
 - How is Bit Civilization constructed?
-https://bitcointalk.org/index.php?topic=5354020.msg57674623#msg57674623
+- https://bitcointalk.org/index.php?topic=5354020.msg57674623#msg57674623
 - What’s the nature of consensus?
-https://bitcointalk.org/index.php?topic=5354433.msg57690529#msg57690529
+- https://bitcointalk.org/index.php?topic=5354433.msg57690529#msg57690529
 - The connection and difference of Bit Civilization with Metaverse and web3
-https://bitcointalk.org/index.php?topic=5354754.msg57705275#msg57705275
+- https://bitcointalk.org/index.php?topic=5354754.msg57705275#msg57705275
 - Bitcoin, switcher for mankind from Carbon-based to Silicon-based civilization
-https://bitcointalk.org/index.php?topic=5355176.msg57722835#msg57722835
+- https://bitcointalk.org/index.php?topic=5355176.msg57722835#msg57722835
 - Satoshi Nakamoto made machines evolve into life forms of AI
-https://bitcointalk.org/index.php?topic=5355725.msg57746317#msg57746317
+- https://bitcointalk.org/index.php?topic=5355725.msg57746317#msg57746317
 - The emergence of Machine Trust and Bit Civilization
-https://bitcointalk.org/index.php?topic=5359029.msg57894248#msg57894248
+- https://bitcointalk.org/index.php?topic=5359029.msg57894248#msg57894248
 - Look at the fontal secret of the universe and life through Bitcoin
-https://bitcointalk.org/index.php?topic=5360392.msg57953877#msg57953877
+- https://bitcointalk.org/index.php?topic=5360392.msg57953877#msg57953877
 - Bitcoin will be the infrastructure of future human civilization
-https://bitcointalk.org/index.php?topic=5361678.msg58012572#msg58012572
+- https://bitcointalk.org/index.php?topic=5361678.msg58012572#msg58012572
 - The predicament of Bitcoin
-https://bitcointalk.org/index.php?topic=5362605.msg58035598#msg58035598
+- https://bitcointalk.org/index.php?topic=5362605.msg58035598#msg58035598
 
 
 
