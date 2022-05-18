@@ -8,7 +8,7 @@
 
 ---
 
-## Table of Contents <!-- omit in toc -->
+
 
 - [2019](#2019)
   - [:surfing_woman: Wave 1 - First Quarter 2019](#surfing_woman-wave-1---first-quarter-2019)
