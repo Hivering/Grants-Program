@@ -10,11 +10,6 @@
 
 
 
-- [2019](#2019)
-  - [:surfing_woman: Wave 1 - First Quarter 2019](#surfing_woman-wave-1---first-quarter-2019)
-  - [:surfing_woman: Wave 2 - Second Quarter 2019](#surfing_woman-wave-2---second-quarter-2019)
-  - [:surfing_woman: Wave 3 - Third Quarter 2019](#surfing_woman-wave-3---third-quarter-2019)
-  - [:surfing_woman: Wave 4 - Fourth Quarter 2019](#surfing_woman-wave-4---fourth-quarter-2019)
 - [2020](#2020)
   - [:surfing_woman: Wave 5 - First Quarter 2020](#surfing_woman-wave-5---first-quarter-2020)
   - [:surfing_woman: Wave 6 - Second Quarter 2020](#surfing_woman-wave-6---second-quarter-2020)
