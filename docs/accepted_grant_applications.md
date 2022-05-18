@@ -32,11 +32,7 @@
 | [WEB3SCAN](https://www.web3scan.com/) | Polkascan: Open Source Block Explorer | [GitHub](https://github.com/polkascan) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Polkawallet](https://polkawallet.io/) | Mobile Wallet | [GitHub](https://github.com/polkawallet-io/polkawallet-RN) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Validators](http://validators.com/) | Open Source Scalable Cluster | [GitHub](https://github.com/Validators) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [BlockX Labs](http://blockxlabs.com/) | Enzyme Browser extension wallet | [GitHub](https://github.com/blockxlabs/enzyme) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Speckle OS](https://www.speckleos.io/) | Browser extension wallet | [GitHub](https://github.com/SpeckleOS/speckle-browser-extension) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Noise Explorer](https://symbolic.software/) | Rust code generator for formally verified (Noise/ cryptographic) handshakes | [Source Code](https://source.symbolic.software/noiseexplorer/noiseexplorer) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Protos](http://protosmanagement.com/) | Open Source Node Explorer | [GitHub](https://github.com/protos-research/polkadot-node-explorer) | <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Supercomputing Systems](https://www.scs.ch/) | Substrate Transaction Privacy using Intel SGX | [GitHub](https://github.com/scs/substraTEE) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
+| [BlockX Labs](http://blockxlabs.com/) | Enzyme Browser extension wallet | [GitHub](https://github.com/blockxlabs/enzyme) | <ul><li>[ ] </li></ul> |  <ul>
 
 ## :surfing_woman: Wave 2 - Second Quarter 2019
 
